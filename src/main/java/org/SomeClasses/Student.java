@@ -9,4 +9,5 @@ public class Student {
     private int id;
     private String name;
     private boolean isAlive;
+    private String mother;
 }
